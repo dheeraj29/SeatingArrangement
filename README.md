@@ -1,6 +1,6 @@
 # SeatingArrangement
 
-Hi! This java based application that takes text (txt) file as input and produces seating arrangement as output.
+Hi! This is java based application that takes text (txt) file as input and produces seating arrangement as output.
 
 ## Criteria
 
